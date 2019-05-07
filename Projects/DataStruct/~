@@ -1,0 +1,9 @@
+#define MAXSIZE 100
+
+typedef int ElementType;
+
+typedef struct Node
+{
+	ElementType data;
+	struct Node *next;
+}Node;

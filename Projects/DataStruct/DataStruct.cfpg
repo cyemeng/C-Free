@@ -1,0 +1,7 @@
+<Projects version="2.0">
+	<Project active="1">DataStruct.cfp</Project>
+	<File active="1">main.c</File>
+	<File active="0">cp3\SqQueue.h</File>
+	<File active="0">cp3\SqQueue.c</File>
+	<File active="0">Status\Status.h</File>
+</Projects>
